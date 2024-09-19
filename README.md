@@ -1,5 +1,7 @@
+Note- Switch branch from main to logintest.
+
 User Authentication System
-Automation Testcases for Login functionality with Valid and Invalid Scenarios by using Java, Selenium and TestNG, Maven.
+Automation test cases for Login functionality with Valid and Invalid Scenarios by using Java, Selenium and TestNG, Maven.
 Test Execution Steps
 Prerequisites
 1.	Software Installation: Java: Ensure Java Development Kit (JDK) is installed. Maven: Ensure Apache Maven is installed for dependency management. Selenium WebDriver: Install the Chromedriver WebDriver for the browser TestNG: Ensure TestNG is included in the project dependencies.
